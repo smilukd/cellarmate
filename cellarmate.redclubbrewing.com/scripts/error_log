@@ -1,0 +1,361 @@
+[13-Dec-2017 18:13:58 UTC] PHP Notice:  Undefined index: ID in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 136
+[14-Dec-2017 15:20:03 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'redclubb_cellar.USER' doesn't exist' in /home/redclubb/cellarmate.redclubbrewing.com/scripts/usercheck.php:8
+Stack trace:
+#0 /home/redclubb/cellarmate.redclubbrewing.com/scripts/usercheck.php(8): PDO->query('SELECT USER_ID ...')
+#1 {main}
+  thrown in /home/redclubb/cellarmate.redclubbrewing.com/scripts/usercheck.php on line 8
+[15-Dec-2017 01:48:51 UTC] PHP Notice:  Undefined index: barcode in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 45
+[15-Dec-2017 01:50:53 UTC] PHP Notice:  Undefined index: barcode in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 45
+[15-Dec-2017 01:51:40 UTC] PHP Notice:  Undefined index: barcode in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 45
+[15-Dec-2017 01:51:45 UTC] PHP Notice:  Undefined index: barcode in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 45
+[15-Dec-2017 01:55:48 UTC] PHP Notice:  Undefined index: barcode in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 51
+[15-Dec-2017 02:00:40 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[15-Dec-2017 02:00:40 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[15-Dec-2017 02:00:40 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[15-Dec-2017 02:00:40 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[15-Dec-2017 02:01:39 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[15-Dec-2017 02:06:08 UTC] PHP Notice:  Undefined index: commercial in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 49
+[15-Dec-2017 02:06:08 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[15-Dec-2017 02:06:08 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[15-Dec-2017 02:13:30 UTC] PHP Notice:  Undefined index: commercial in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 49
+[15-Dec-2017 02:13:30 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[15-Dec-2017 02:14:27 UTC] PHP Notice:  Undefined index: commercial in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 49
+[15-Dec-2017 02:14:27 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[15-Dec-2017 02:36:44 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'redclubb_cellar.USER' doesn't exist' in /home/redclubb/cellarmate.redclubbrewing.com/scripts/usercheck.php:8
+Stack trace:
+#0 /home/redclubb/cellarmate.redclubbrewing.com/scripts/usercheck.php(8): PDO->query('SELECT USER_ID ...')
+#1 {main}
+  thrown in /home/redclubb/cellarmate.redclubbrewing.com/scripts/usercheck.php on line 8
+[15-Dec-2017 02:41:08 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'redclubb_cellar.USER' doesn't exist' in /home/redclubb/cellarmate.redclubbrewing.com/scripts/usercheck.php:8
+Stack trace:
+#0 /home/redclubb/cellarmate.redclubbrewing.com/scripts/usercheck.php(8): PDO->query('SELECT USER_ID ...')
+#1 {main}
+  thrown in /home/redclubb/cellarmate.redclubbrewing.com/scripts/usercheck.php on line 8
+[15-Dec-2017 16:44:27 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'redclubb_cellar.USER' doesn't exist' in /home/redclubb/cellarmate.redclubbrewing.com/scripts/usercheck.php:8
+Stack trace:
+#0 /home/redclubb/cellarmate.redclubbrewing.com/scripts/usercheck.php(8): PDO->query('SELECT USER_ID ...')
+#1 {main}
+  thrown in /home/redclubb/cellarmate.redclubbrewing.com/scripts/usercheck.php on line 8
+[15-Dec-2017 16:46:15 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'redclubb_cellar.USER' doesn't exist' in /home/redclubb/cellarmate.redclubbrewing.com/scripts/usercheck.php:8
+Stack trace:
+#0 /home/redclubb/cellarmate.redclubbrewing.com/scripts/usercheck.php(8): PDO->query('SELECT USER_ID ...')
+#1 {main}
+  thrown in /home/redclubb/cellarmate.redclubbrewing.com/scripts/usercheck.php on line 8
+[15-Dec-2017 16:47:01 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'redclubb_cellar.USER' doesn't exist' in /home/redclubb/cellarmate.redclubbrewing.com/scripts/usercheck.php:8
+Stack trace:
+#0 /home/redclubb/cellarmate.redclubbrewing.com/scripts/usercheck.php(8): PDO->query('SELECT USER_ID ...')
+#1 {main}
+  thrown in /home/redclubb/cellarmate.redclubbrewing.com/scripts/usercheck.php on line 8
+[15-Dec-2017 16:47:10 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'redclubb_cellar.USER' doesn't exist' in /home/redclubb/cellarmate.redclubbrewing.com/scripts/usercheck.php:8
+Stack trace:
+#0 /home/redclubb/cellarmate.redclubbrewing.com/scripts/usercheck.php(8): PDO->query('SELECT USER_ID ...')
+#1 {main}
+  thrown in /home/redclubb/cellarmate.redclubbrewing.com/scripts/usercheck.php on line 8
+[15-Dec-2017 16:47:28 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'redclubb_cellar.USER' doesn't exist' in /home/redclubb/cellarmate.redclubbrewing.com/scripts/usercheck.php:8
+Stack trace:
+#0 /home/redclubb/cellarmate.redclubbrewing.com/scripts/usercheck.php(8): PDO->query('SELECT USER_ID ...')
+#1 {main}
+  thrown in /home/redclubb/cellarmate.redclubbrewing.com/scripts/usercheck.php on line 8
+[15-Dec-2017 16:55:42 UTC] PHP Notice:  Undefined index: totalResults in /home/redclubb/cellarmate.redclubbrewing.com/scripts/beersearch.php on line 170
+[15-Dec-2017 16:55:49 UTC] PHP Notice:  Undefined index: totalResults in /home/redclubb/cellarmate.redclubbrewing.com/scripts/beersearch.php on line 170
+[15-Dec-2017 16:55:56 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[15-Dec-2017 16:55:56 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[15-Dec-2017 16:55:56 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[15-Dec-2017 16:55:56 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[15-Dec-2017 16:55:56 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[15-Dec-2017 16:55:56 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[15-Dec-2017 16:55:56 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[15-Dec-2017 16:55:56 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[15-Dec-2017 16:55:56 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[15-Dec-2017 16:55:56 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[15-Dec-2017 16:55:56 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[15-Dec-2017 16:55:56 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[15-Dec-2017 16:55:56 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[15-Dec-2017 16:55:56 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[15-Dec-2017 16:55:56 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[15-Dec-2017 16:55:56 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[15-Dec-2017 16:55:56 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[15-Dec-2017 16:55:56 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[15-Dec-2017 16:55:56 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[15-Dec-2017 16:55:56 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[15-Dec-2017 16:55:56 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[15-Dec-2017 16:55:56 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[15-Dec-2017 16:55:56 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[15-Dec-2017 16:55:56 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[15-Dec-2017 16:55:56 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[15-Dec-2017 16:55:56 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[15-Dec-2017 16:55:56 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[15-Dec-2017 16:55:56 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[15-Dec-2017 16:55:56 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[15-Dec-2017 16:55:56 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[15-Dec-2017 16:55:56 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[15-Dec-2017 16:55:56 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[15-Dec-2017 16:55:56 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[15-Dec-2017 16:55:56 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[15-Dec-2017 16:55:56 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[15-Dec-2017 16:55:56 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[15-Dec-2017 16:55:56 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[15-Dec-2017 16:55:56 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[15-Dec-2017 16:55:56 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[15-Dec-2017 16:55:56 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[15-Dec-2017 16:55:56 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[15-Dec-2017 16:55:56 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[15-Dec-2017 16:55:56 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[15-Dec-2017 16:55:56 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[15-Dec-2017 16:55:56 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[15-Dec-2017 16:55:56 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[15-Dec-2017 16:55:56 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[15-Dec-2017 16:55:56 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[15-Dec-2017 16:55:56 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[15-Dec-2017 16:55:56 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[15-Dec-2017 16:56:23 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/redclubb/cellarmate.redclubbrewing.com/scripts/updateuser.php on line 127
+[20-Dec-2017 21:00:55 UTC] PHP Notice:  Undefined index: ID in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 11
+[20-Dec-2017 21:00:55 UTC] PHP Notice:  Undefined index: commercial in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 49
+[16-Jan-2018 21:45:31 UTC] PHP Notice:  Undefined index: totalResults in /home/redclubb/cellarmate.redclubbrewing.com/scripts/beersearch.php on line 170
+[28-Aug-2018 16:49:44 UTC] PHP Notice:  Undefined index: USER in /home/redclubb/cellarmate.redclubbrewing.com/scripts/removebeer.php on line 5
+[10-Nov-2018 19:57:40 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'redclubb_cellar.USER' doesn't exist' in /home/redclubb/cellarmate.redclubbrewing.com/scripts/usercheck.php:8
+Stack trace:
+#0 /home/redclubb/cellarmate.redclubbrewing.com/scripts/usercheck.php(8): PDO->query('SELECT USER_ID ...')
+#1 {main}
+  thrown in /home/redclubb/cellarmate.redclubbrewing.com/scripts/usercheck.php on line 8
+[10-Nov-2018 19:59:48 UTC] PHP Notice:  Undefined index: ID in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 11
+[10-Nov-2018 19:59:48 UTC] PHP Notice:  Undefined index: commercial in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 49
+[10-Nov-2018 20:05:02 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 20:05:02 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 20:05:02 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 20:05:02 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 20:06:15 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 20:06:15 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 20:06:15 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 20:08:00 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 20:08:00 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 20:08:00 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 20:10:22 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 20:10:22 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 20:10:22 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 20:10:22 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 20:11:11 UTC] PHP Notice:  Undefined index: commercial in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 49
+[10-Nov-2018 20:11:11 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 20:11:11 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 20:11:11 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 20:12:56 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 20:12:56 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 20:12:56 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 20:13:47 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 20:13:47 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 20:15:58 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 20:15:58 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 20:16:47 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 20:17:39 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 20:19:40 UTC] PHP Notice:  Undefined index: commercial in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 49
+[10-Nov-2018 20:19:40 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 20:19:40 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 20:20:48 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 20:20:48 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 20:22:40 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 20:22:40 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 20:22:40 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 20:22:40 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 20:23:51 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 20:24:54 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 20:26:52 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 20:28:39 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 20:28:39 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 20:30:02 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 20:33:15 UTC] PHP Notice:  Undefined index: commercial in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 49
+[10-Nov-2018 20:33:15 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 20:34:51 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 20:36:07 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 20:37:02 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 20:38:17 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 20:39:38 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 20:41:02 UTC] PHP Notice:  Undefined index: commercial in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 49
+[10-Nov-2018 20:41:02 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 20:42:32 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 20:44:31 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 20:44:31 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 20:44:31 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 20:44:31 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 20:44:31 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 20:44:31 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 20:48:24 UTC] PHP Notice:  Undefined index: commercial in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 49
+[10-Nov-2018 20:48:24 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 20:49:29 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 20:50:46 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 20:51:06 UTC] PHP Notice:  Undefined index: commercial in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 49
+[10-Nov-2018 20:51:06 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 20:52:29 UTC] PHP Notice:  Undefined index: commercial in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 49
+[10-Nov-2018 20:52:29 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 20:52:29 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 20:52:29 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 20:52:29 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 20:52:29 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 20:57:11 UTC] PHP Notice:  Undefined index: commercial in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 49
+[10-Nov-2018 20:57:11 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 20:57:11 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 20:57:11 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 20:57:11 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 20:57:11 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 20:57:35 UTC] PHP Notice:  Undefined index: commercial in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 49
+[10-Nov-2018 20:57:35 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 20:59:02 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 21:00:17 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 21:01:24 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 21:01:24 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 21:01:24 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 21:05:05 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 21:05:05 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 21:05:05 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 21:10:30 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 21:14:18 UTC] PHP Notice:  Undefined index: commercial in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 49
+[10-Nov-2018 21:14:18 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 21:17:07 UTC] PHP Notice:  Undefined index: commercial in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 49
+[10-Nov-2018 21:17:07 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 21:17:07 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 21:17:07 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 21:17:07 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 21:17:07 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 21:17:07 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 21:17:07 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 21:19:51 UTC] PHP Notice:  Undefined index: commercial in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 49
+[10-Nov-2018 21:19:51 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 21:20:56 UTC] PHP Notice:  Undefined index: totalResults in /home/redclubb/cellarmate.redclubbrewing.com/scripts/beersearch.php on line 170
+[10-Nov-2018 21:21:06 UTC] PHP Notice:  Undefined index: totalResults in /home/redclubb/cellarmate.redclubbrewing.com/scripts/beersearch.php on line 170
+[10-Nov-2018 21:21:10 UTC] PHP Notice:  Undefined index: totalResults in /home/redclubb/cellarmate.redclubbrewing.com/scripts/beersearch.php on line 170
+[10-Nov-2018 21:21:47 UTC] PHP Notice:  Undefined index: totalResults in /home/redclubb/cellarmate.redclubbrewing.com/scripts/beersearch.php on line 170
+[10-Nov-2018 21:22:14 UTC] PHP Notice:  Undefined index: commercial in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 49
+[10-Nov-2018 21:22:14 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 21:23:57 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 21:25:25 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 21:26:15 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 21:27:07 UTC] PHP Notice:  Undefined index: totalResults in /home/redclubb/cellarmate.redclubbrewing.com/scripts/beersearch.php on line 170
+[10-Nov-2018 21:27:51 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 21:32:47 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 21:32:47 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 21:32:47 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 21:32:47 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 21:34:52 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 21:34:52 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 21:35:35 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 21:36:31 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 21:39:36 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 21:41:04 UTC] PHP Notice:  Undefined index: commercial in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 49
+[10-Nov-2018 21:41:04 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 21:41:04 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 21:41:04 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 21:45:45 UTC] PHP Notice:  Undefined index: commercial in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 49
+[10-Nov-2018 21:45:45 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 21:46:25 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 21:47:21 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 21:48:03 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 21:49:36 UTC] PHP Notice:  Undefined index: commercial in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 49
+[10-Nov-2018 21:49:36 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 21:50:15 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 21:53:21 UTC] PHP Notice:  Undefined index: commercial in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 49
+[10-Nov-2018 21:53:21 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 21:55:12 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 21:59:40 UTC] PHP Notice:  Undefined index: commercial in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 49
+[10-Nov-2018 21:59:40 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 22:01:45 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 22:02:29 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 22:04:49 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 22:06:51 UTC] PHP Notice:  Undefined index: commercial in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 49
+[10-Nov-2018 22:06:51 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 22:07:20 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 22:10:37 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 22:11:10 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 22:12:05 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 22:13:15 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 22:14:35 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 22:15:37 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 22:16:44 UTC] PHP Notice:  Undefined index: commercial in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 49
+[10-Nov-2018 22:16:44 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 22:19:22 UTC] PHP Notice:  Undefined index: commercial in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 49
+[10-Nov-2018 22:19:22 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 22:24:14 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 22:29:13 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 22:30:13 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 22:32:04 UTC] PHP Notice:  Undefined index: commercial in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 49
+[10-Nov-2018 22:32:04 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 22:32:47 UTC] PHP Notice:  Undefined index: commercial in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 49
+[10-Nov-2018 22:32:47 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 22:34:47 UTC] PHP Notice:  Undefined index: commercial in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 49
+[10-Nov-2018 22:34:47 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 22:36:16 UTC] PHP Notice:  Undefined index: commercial in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 49
+[10-Nov-2018 22:36:16 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 22:36:16 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 22:39:33 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 22:39:33 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 22:39:33 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 22:39:33 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 22:41:48 UTC] PHP Notice:  Undefined index: beerChoice in /home/redclubb/cellarmate.redclubbrewing.com/scripts/apiBeer.php on line 6
+[10-Nov-2018 22:42:21 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 22:42:21 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 22:43:33 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 22:48:13 UTC] PHP Notice:  Undefined index: commercial in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 49
+[10-Nov-2018 22:48:13 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 22:50:08 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 22:50:08 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 22:50:08 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 22:51:20 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 22:53:30 UTC] PHP Notice:  Undefined index: commercial in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 49
+[10-Nov-2018 22:53:30 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 23:01:30 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 23:07:19 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 23:07:19 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 23:07:19 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 23:08:38 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 23:08:38 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 23:08:38 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 23:08:38 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 23:08:38 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 23:11:59 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 23:11:59 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 23:11:59 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 23:11:59 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 23:11:59 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 23:11:59 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 23:11:59 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 23:13:54 UTC] PHP Notice:  Undefined index: commercial in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 49
+[10-Nov-2018 23:13:54 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 23:13:54 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 23:14:49 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 23:14:49 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 23:14:49 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 23:16:15 UTC] PHP Notice:  Undefined index: commercial in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 49
+[10-Nov-2018 23:16:15 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 23:16:15 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 23:16:15 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 23:16:15 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 23:16:15 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 23:16:15 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 23:18:29 UTC] PHP Notice:  Undefined index: commercial in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 49
+[10-Nov-2018 23:18:29 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 23:27:19 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 23:27:19 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 23:28:36 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 23:30:13 UTC] PHP Notice:  Undefined index: commercial in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 49
+[10-Nov-2018 23:30:13 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 23:31:46 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 23:33:09 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 23:33:09 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 23:34:28 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 23:35:20 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 23:36:24 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 23:36:24 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 23:36:24 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 23:36:24 UTC] PHP Notice:  Undefined variable: image in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 75
+[10-Nov-2018 23:54:33 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/redclubb/cellarmate.redclubbrewing.com/scripts/updateuser.php on line 127
+[13-Nov-2018 23:18:47 UTC] PHP Notice:  Undefined index: ID in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 137
+[13-Nov-2018 23:19:06 UTC] PHP Notice:  Undefined index: ID in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 137
+[13-Nov-2018 23:19:23 UTC] PHP Notice:  Undefined index: ID in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 137
+[14-Nov-2018 23:14:22 UTC] PHP Notice:  Undefined index: USER in /home/redclubb/cellarmate.redclubbrewing.com/scripts/removebeer.php on line 5
+[22-Apr-2019 20:24:38 UTC] PHP Notice:  Undefined index: ID in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 11
+[22-Apr-2019 20:24:38 UTC] PHP Notice:  Undefined index: commercial in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 49
+[22-Apr-2019 20:25:20 UTC] PHP Notice:  Undefined index: totalResults in /home/redclubb/cellarmate.redclubbrewing.com/scripts/beersearch.php on line 170
+[22-Apr-2019 20:26:06 UTC] PHP Notice:  Undefined index: ID in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 11
+[22-Apr-2019 20:26:06 UTC] PHP Notice:  Undefined index: commercial in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 49
+[09-Aug-2019 21:08:22 UTC] PHP Notice:  Undefined index: ID in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 11
+[09-Aug-2019 21:08:22 UTC] PHP Notice:  Undefined index: commercial in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 49
+[09-Aug-2019 21:10:30 UTC] PHP Notice:  Undefined index: ID in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 11
+[09-Aug-2019 21:10:30 UTC] PHP Notice:  Undefined index: commercial in /home/redclubb/cellarmate.redclubbrewing.com/scripts/insertBeer.php on line 49
